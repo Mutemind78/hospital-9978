@@ -1,0 +1,16 @@
+@media screen and (max-width: 730px) {
+    .hide {
+        display: none;
+    }
+    }
+
+    
+@media screen and (min-width: 960px) {
+    .hide {
+        display: none;
+    }
+}
+    
+ 
+
+ 
